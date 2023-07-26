@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\.2c2d351b719831fe63005f5b904b459c7ad0370b-audit.json",
+    "files": [
+        {
+            "date": 1686697127870,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-14-06-04-error.log",
+            "hash": "3696986cede89c48615c80c9ae7be2ec7b80006f6d862b09c23a143b3ee6f365"
+        },
+        {
+            "date": 1686819291147,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-14-error.log",
+            "hash": "9b276532039f6aa4d67ebb136ca83e2393418ef05a483a8737d76c73ad2ec004"
+        },
+        {
+            "date": 1686842468581,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-21-error.log",
+            "hash": "068cd1cc8c210b84cf76be1eb67af8123f25f56bc29bc026d71cbbe216da7df9"
+        },
+        {
+            "date": 1686894408433,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-11-error.log",
+            "hash": "e6fa20216a114fc4278904e1951b37dffc553c90b01959872a358fde72812d9d"
+        },
+        {
+            "date": 1686896290505,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-12-error.log",
+            "hash": "4c4323472379e6c6fbd2653678f245168ab916c39b9340f0fde9261dc2c7c8c0"
+        },
+        {
+            "date": 1686965517647,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-07-error.log",
+            "hash": "5ec63632b0d7b00bd7623d43cc414baf85cd02a5c6c07322fe3ec434a2943161"
+        },
+        {
+            "date": 1687201247548,
+            "name": "D:\\projects\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-06-01-error.log",
+            "hash": "47aa89bfb65978ed71aa3a19f909b1f7eff5cbeb3bc642ddd0b365ad26df23bf"
+        }
+    ],
+    "hashType": "sha256"
+}

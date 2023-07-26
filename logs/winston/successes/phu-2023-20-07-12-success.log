@@ -1,0 +1,98 @@
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:46:28.521Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:46:28.551Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:52:24.281Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:52:24.307Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:52:49.386Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:52:49.407Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:53:56.515Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:53:56.540Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:56:34.407Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:56:34.427Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:57:02.746Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:57:02.767Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:57:19.294Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T06:57:19.317Z'
+}

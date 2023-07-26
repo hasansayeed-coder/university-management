@@ -1,0 +1,126 @@
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:08:56.218Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:08:56.237Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:11:49.193Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:11:49.207Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:13:51.664Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:13:51.678Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:15:14.522Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:15:14.534Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:33:28.846Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:33:28.857Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:33:42.223Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:33:42.233Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:37:09.451Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:37:09.461Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:37:15.755Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:37:15.767Z'
+}
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:38:40.652Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-22T01:38:40.663Z'
+}

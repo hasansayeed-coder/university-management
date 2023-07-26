@@ -1,0 +1,14 @@
+{
+  message: 'database connected for SPL',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T14:11:36.717Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph University',
+  timestamp: '2023-07-20T14:11:36.735Z'
+}
